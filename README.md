@@ -281,6 +281,7 @@ For issues or questions:
 2. Review configuration in `config.py`
 3. Examine the training/inference scripts
 4. Check model outputs in checkpoints/
+5. Any further complications. Just contact
 
 ## 🎓 Learning Resources
 
